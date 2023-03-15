@@ -29,3 +29,8 @@ git clone https://github.com/bradymadden97/2048-game
 Open a web browser and navigate to the <b>index.html</b> page in your filesystem
 
 Good luck and enjoy!
+
+
+```
+docker-compose up
+```
